@@ -4,7 +4,7 @@ int main () {
     printf("Enter the number of the consicutive day which you wanna know: ");
     scanf("%d",&da_y);
 
-    switch(da_y) 
+    switch(da_y) {
 
         case 1:
             printf("IT's Sunday ENJOY!! \n");
